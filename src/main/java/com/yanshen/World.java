@@ -8,5 +8,7 @@ public class World {
 
 	public static void main(String[] args) {
 		System.out.println("world");
+		
+		System.out.println("哈哈，哈测试一下");
 	}
 }
