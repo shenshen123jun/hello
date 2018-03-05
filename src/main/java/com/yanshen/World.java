@@ -10,5 +10,7 @@ public class World {
 		System.out.println("world");
 		
 		System.out.println("哈哈，哈测试一下");
+		
+		System.out.println("今天是个好日子");
 	}
 }
